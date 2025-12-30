@@ -24,7 +24,7 @@ Power Quests is a minimalist, portable HUD designed for developers who want to g
 1. Clone the Repository
 Bash
 
-git clone https://github.com/YOUR_USERNAME/power-quests.git
+git clone https://github.com/DmytroH2013/Power-Quests/tree/main
 cd power-quests
 
 2. Configure Your Mission (quests.json)
