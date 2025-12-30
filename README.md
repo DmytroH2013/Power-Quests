@@ -80,7 +80,7 @@ Distributed under the MIT License. See LICENSE for more information.
 
 Dmytr - https://github.com/DmytroH2013
 
-Project Link: https://github.com/YOUR_USERNAME/power-quests
+Project Link: https://github.com/DmytroH2013/Power-Quests/tree/main
 🚀 Next Steps for you:
 
     Take a screenshot of the app running.
