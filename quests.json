@@ -1,0 +1,6 @@
+[
+    {"type": "quest", "task": "Fix the main frame"},
+    {"type": "wait", "duration": "10sec"},
+    {"type": "quest", "task": "Welcome to the fight"},
+    {"type": "wait", "duration": "1min"}
+]
