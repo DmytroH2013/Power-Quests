@@ -80,11 +80,5 @@ Distributed under the MIT License. See LICENSE for more information.
 
 Dmytr - https://github.com/DmytroH2013
 
-Project Link: https://github.com/DmytroH2013/Power-Quests/tree/main
-🚀 Next Steps for you:
-
-    Take a screenshot of the app running.
-
-    Upload the screenshot to your GitHub repository folder.
-
-    Replace the [Insert a Screenshot...] line in the README with ![HUD Preview](your_screenshot_name.png).
+Project Link: https://github.com/DmytroH2013/Power-Quests/tree/main.py
+<img width="546" height="707" alt="image" src="https://github.com/user-attachments/assets/bf76a230-5567-4a01-9803-a8d8f29052c0" />
